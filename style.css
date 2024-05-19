@@ -1,0 +1,40 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.nav{
+    background-color: rgb(197, 140, 65);
+}
+.menu1{
+    color: brown;
+    font-weight: bolder;
+    font-size: 30px;
+    font-family: cursive;
+    padding-left: 209x;
+}
+.m1{
+    padding-left: 80px;
+}
+.menu{
+    color: darkred;
+    font-family: cursive;
+    font-size: medium;
+
+}
+.mid{
+    width: 100%;
+    height: 100vh;
+    background-color: cornsilk;
+}
+.midrap{
+    width: 60%;
+    margin: auto;
+    padding-top: 35px;
+}
+.f1{
+    background-color: rgb(197, 140, 65);
+}
+.f2{
+    color: brown;
+    font-weight: bolder;
+}

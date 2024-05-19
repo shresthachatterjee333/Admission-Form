@@ -1,0 +1,40 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.nav{
+    background-color: rgb(197, 140, 65);
+}
+.menu1{
+    color: brown;
+    font-weight: bolder;
+    font-size: 30px;
+    font-family: cursive;
+    padding-left: 209x;
+}
+.m1{
+    padding-left: 80px;
+}
+.menu{
+    color: darkred;
+    font-family: cursive;
+    font-size: medium;
+
+}
+.b1{
+    padding-bottom: 25px;
+}
+.b1 h2{
+    text-align: center;
+    color: navy;
+}
+.b2{
+    width: 155vh;
+}
+.f1{
+    background-color: rgb(197, 140, 65);
+}
+.f2{
+    color: brown;
+    font-weight: bolder;
+}
